@@ -1011,6 +1011,8 @@
 			<dict>
 				<key>Arguments</key>
 				<string></string>
+				<key>Comment</key>
+				<string>HFS Plus Support</string>
 				<key>Enabled</key>
 				<true/>
 				<key>Path</key>
@@ -1018,6 +1020,8 @@
 			</dict>
 			<dict>
 				<key>Arguments</key>
+				<string></string>
+				<key>Comment</key>
 				<string></string>
 				<key>Enabled</key>
 				<false/>
@@ -1027,6 +1031,8 @@
 			<dict>
 				<key>Arguments</key>
 				<string></string>
+				<key>Comment</key>
+				<string></string>
 				<key>Enabled</key>
 				<false/>
 				<key>Path</key>
@@ -1035,6 +1041,8 @@
 			<dict>
 				<key>Arguments</key>
 				<string></string>
+				<key>Comment</key>
+				<string>HFS Plus Support</string>
 				<key>Enabled</key>
 				<true/>
 				<key>Path</key>
@@ -1043,6 +1051,8 @@
 			<dict>
 				<key>Arguments</key>
 				<string></string>
+				<key>Comment</key>
+				<string>HFS Plus Support</string>
 				<key>Enabled</key>
 				<true/>
 				<key>Path</key>
@@ -1051,6 +1061,8 @@
 			<dict>
 				<key>Arguments</key>
 				<string></string>
+				<key>Comment</key>
+				<string>HFS Plus Support</string>
 				<key>Enabled</key>
 				<true/>
 				<key>Path</key>
@@ -1059,6 +1071,8 @@
 			<dict>
 				<key>Arguments</key>
 				<string></string>
+				<key>Comment</key>
+				<string>OpenCore Support</string>
 				<key>Enabled</key>
 				<true/>
 				<key>Path</key>
@@ -1067,6 +1081,8 @@
 			<dict>
 				<key>Arguments</key>
 				<string></string>
+				<key>Comment</key>
+				<string>GUI Support</string>
 				<key>Enabled</key>
 				<true/>
 				<key>Path</key>
@@ -1075,6 +1091,8 @@
 			<dict>
 				<key>Arguments</key>
 				<string></string>
+				<key>Comment</key>
+				<string>Audio Support</string>
 				<key>Enabled</key>
 				<true/>
 				<key>Path</key>
@@ -1082,6 +1100,8 @@
 			</dict>
 			<dict>
 				<key>Arguments</key>
+				<string></string>
+				<key>Comment</key>
 				<string></string>
 				<key>Enabled</key>
 				<true/>
@@ -1091,22 +1111,28 @@
 			<dict>
 				<key>Arguments</key>
 				<string></string>
+				<key>Comment</key>
+				<string></string>
 				<key>Enabled</key>
-				<true/>
+				<false/>
 				<key>Path</key>
 				<string>OpenUsbKbDxe.efi</string>
 			</dict>
 			<dict>
 				<key>Arguments</key>
 				<string></string>
+				<key>Comment</key>
+				<string>USB Mouse Support</string>
 				<key>Enabled</key>
-				<true/>
+				<false/>
 				<key>Path</key>
 				<string>UsbMouseDxe.efi</string>
 			</dict>
 			<dict>
 				<key>Arguments</key>
 				<string></string>
+				<key>Comment</key>
+				<string>Keyboard Support</string>
 				<key>Enabled</key>
 				<true/>
 				<key>Path</key>
@@ -1115,13 +1141,17 @@
 			<dict>
 				<key>Arguments</key>
 				<string></string>
+				<key>Comment</key>
+				<string>PS2 Mouse Support</string>
 				<key>Enabled</key>
-				<true/>
+				<false/>
 				<key>Path</key>
 				<string>Ps2MouseDxe.efi</string>
 			</dict>
 			<dict>
 				<key>Arguments</key>
+				<string></string>
+				<key>Comment</key>
 				<string></string>
 				<key>Enabled</key>
 				<false/>
@@ -1131,6 +1161,8 @@
 			<dict>
 				<key>Arguments</key>
 				<string></string>
+				<key>Comment</key>
+				<string>NVME Support</string>
 				<key>Enabled</key>
 				<true/>
 				<key>Path</key>
@@ -1139,6 +1171,8 @@
 			<dict>
 				<key>Arguments</key>
 				<string></string>
+				<key>Comment</key>
+				<string>AHCI Support</string>
 				<key>Enabled</key>
 				<true/>
 				<key>Path</key>
@@ -1147,13 +1181,17 @@
 			<dict>
 				<key>Arguments</key>
 				<string></string>
+				<key>Comment</key>
+				<string>ExFat Support</string>
 				<key>Enabled</key>
-				<true/>
+				<false/>
 				<key>Path</key>
 				<string>ExFatDxe.efi</string>
 			</dict>
 			<dict>
 				<key>Arguments</key>
+				<string></string>
+				<key>Comment</key>
 				<string></string>
 				<key>Enabled</key>
 				<false/>
@@ -1163,6 +1201,8 @@
 			<dict>
 				<key>Arguments</key>
 				<string></string>
+				<key>Comment</key>
+				<string>ext4 support</string>
 				<key>Enabled</key>
 				<true/>
 				<key>Path</key>
@@ -1171,6 +1211,8 @@
 			<dict>
 				<key>Arguments</key>
 				<string></string>
+				<key>Comment</key>
+				<string>Linux Support</string>
 				<key>Enabled</key>
 				<true/>
 				<key>Path</key>
