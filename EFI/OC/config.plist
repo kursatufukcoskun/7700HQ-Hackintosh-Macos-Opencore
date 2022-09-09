@@ -840,6 +840,8 @@
 				<string>OpenShell:UEFIShell:Shell</string>
 				<key>Name</key>
 				<string>modGRUBShell.efi</string>
+				<key>FullNvramAccess</key>
+				<false/>
 				<key>Path</key>
 				<string>modGRUBShell.efi</string>
 				<key>RealPath</key>
@@ -865,6 +867,8 @@
 				<key>RealPath</key>
 				<false/>
 				<key>TextMode</key>
+				<false/>
+				<key>FullNvramAccess</key>
 				<false/>
 			</dict>
 		</array>
