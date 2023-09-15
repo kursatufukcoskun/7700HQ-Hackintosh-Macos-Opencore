@@ -670,10 +670,10 @@
 			<true/>
 			<key>CustomPciSerialDevice</key>
 			<false/>
-			<key>DisableIoMapperMapping</key>
-			<false/>
 			<key>DisableIoMapper</key>
 			<true/>
+			<key>DisableIoMapperMapping</key>
+			<false/>
 			<key>DisableLinkeditJettison</key>
 			<true/>
 			<key>DisableRtcChecksum</key>
@@ -1437,9 +1437,9 @@
 			<false/>
 			<key>HashServices</key>
 			<false/>
-			<key>PciIo</key>
-			<false/>
 			<key>OSInfo</key>
+			<false/>
+			<key>PciIo</key>
 			<false/>
 			<key>UnicodeCollation</key>
 			<false/>
@@ -1471,6 +1471,8 @@
 			<key>ResizeGpuBars</key>
 			<integer>-1</integer>
 			<key>ResizeUsePciRbIo</key>
+			<false/>
+			<key>ShimRetainProtocol</key>
 			<false/>
 			<key>TscSyncTimeout</key>
 			<integer>0</integer>
