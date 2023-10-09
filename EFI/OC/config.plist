@@ -906,7 +906,7 @@
 				<key>SystemAudioVolume</key>
 				<data>QA==</data>
 				<key>boot-args</key>
-				<string>-wegnoegpu nv_disable=1</string>
+				<string>-v -wegnoegpu nv_disable=1</string>
 				<key>csr-active-config</key>
 				<data>AAAAAA==</data>
 				<key>run-efi-updater</key>
@@ -976,7 +976,7 @@
 			<key>SystemMemoryStatus</key>
 			<string>Auto</string>
 			<key>SystemProductName</key>
-			<string>iMac18,1</string>
+			<string>MacBookPro15,2</string>
 			<key>SystemSerialNumber</key>
 			<string></string>
 			<key>SystemUUID</key>
